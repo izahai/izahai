@@ -47,4 +47,3 @@ I build and study intelligent systems at the intersection of **Generative Vision
 - **Robotics, XR & Mobile**: `Unitree SDK / Teleop` · `Unity 3D (C# / ShaderLab)` · `Swift (watchOS/iOS)` · `Kotlin (Android)`
 - **Systems & Backend**: `C/C++` · `Python (FastAPI)` · `TCP/UDP Socket Programming` · `Linux` · `Git`
 
-<!-- Profile maintained by izahai -->
